@@ -1,3 +1,5 @@
 # py1010_arbeidskrav2
 
-Arbeidskrav 2 i py1010
+Dette er besvarelse på 2. arbeidskrav i grunnleggende programmering (py1010).
+
+Gjennomført av Håvard Mallaug
